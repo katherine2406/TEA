@@ -10,4 +10,4 @@ primer_nombre = "Juan"
 clase = "TEA"
 tempFarenheit = 80.0
 primerNombre = "Juan"
-apellido "White"
+apellido ="White"
